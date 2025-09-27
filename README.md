@@ -36,3 +36,10 @@ Repositório para armazenar resumos das aulas do [bootcamp da DIO sobre .NET](ht
 |--------|-----------|
 |git push -u origin main|Enviar as alterações para o repositório remoto|
 |git pull|Pucha as alterações do repositório remoto para o local|
+### Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos
+|Código|Explicação|
+|--------|-----------|
+|`git checkout -b teste`|Cria uma Branch nova|
+|`git checkout nome_da_branch`|para acessar alguma Branch específica|
+|`git branch -v`|mostra o último commit de cada Branch|
+|`git merge nome_da_branch`|Dentro da branch principal nós usamos esse comendo para mesclar ela com a branch que nós demos o nome|

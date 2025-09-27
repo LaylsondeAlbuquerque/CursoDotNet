@@ -43,3 +43,4 @@ Repositório para armazenar resumos das aulas do [bootcamp da DIO sobre .NET](ht
 |`git checkout nome_da_branch`|para acessar alguma Branch específica|
 |`git branch -v`|mostra o último commit de cada Branch|
 |`git merge nome_da_branch`|Dentro da branch principal nós usamos esse comendo para mesclar ela com a branch que nós demos o nome|
+|`git branch -d nome_da_branch`|Excluir uma branch|

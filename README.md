@@ -10,7 +10,7 @@ Repositório para armazenar resumos das aulas do [bootcamp da DIO sobre .NET](ht
 ### Criação e commit de arquivos
 |Codigo|Explicação|
 |------|----------|
-|`git config --global user.name "nome da pessoa"`|Altera o nome da pessoa|
+|`git config --global user.name "nome da pessoa"`|Altera o nome do usuário|
 |`git config --global user.email digitar@email.com`|Alterar o email|
 |`git config --global init.defaultBranch "main"`|Alterar main|
 |Para somente ver como está algo| basta não adicionar o valor no final|

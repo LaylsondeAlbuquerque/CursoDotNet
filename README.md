@@ -35,4 +35,4 @@ Repositório para armazenar resumos das aulas do [bootcamp da DIO sobre .NET](ht
 |Código|Explicação|
 |--------|-----------|
 |git push -u origin main|Enviar as alterações para o repositório remoto|
-|||
+|git pull||

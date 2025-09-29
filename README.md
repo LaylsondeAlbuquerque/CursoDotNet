@@ -44,3 +44,11 @@ Repositório para armazenar resumos das aulas do [bootcamp da DIO sobre .NET](ht
 |`git branch -v`|mostra o último commit de cada Branch|
 |`git merge nome_da_branch`|Dentro da branch principal nós usamos esse comendo para mesclar ela com a branch que nós demos o nome|
 |`git branch -d nome_da_branch`|Excluir uma branch|
+### Trabalhando com Branches - Comandos úteis no dia a dia
+|Código|Explicação|
+|--------|-----------|
+|`git fetch origin main`|Baixar as alterações do remoto para o local|
+|`git diff main origin/main`|Analisa as diferenças|
+|`git merge origin/main`|Mesclar nosso remoto com o local|
+|`git clone https://urldoremoto.git --branch nome_da_branch --single-branch`|Clona somente uma branch específica que você queira|
+

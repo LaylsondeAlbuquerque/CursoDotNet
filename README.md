@@ -1,54 +1,57 @@
-# DIO | Resumo .NET
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9DCEDC&height=120&section=header"/>
 
-Repositório para armazenar resumos das aulas do [bootcamp da DIO sobre .NET](https://web.dio.me/track/avanade-back-end-com-net-e-ia).
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=9DCEDC&font=Poppins&weight=700&size=25&height=45&width=600&lines=Olá,+eu+sou+o+Laylson+Albuquerque;Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+</div>
 
-## 📙 Git e Github
+## Análise e Desenvolvimento de Sistemas
+Sou um estudante de Análise e Desenvolvimento de Sistemas na **Faculdade Wyden**. Minha jornada na programação é guiada pela paixão por transformar ideias em soluções funcionais. Atualmente, busco oportunidades para aplicar e expandir minhas habilidades, focado em desenvolvimento de software e soluções back-end.
 
-- [Documentação Git](https://git-scm.com/doc).
-- [Documentação Github](https://docs.github.com/pt).
+---
+## Minhas Habilidades
 
-### Criação e commit de arquivos
-|Codigo|Explicação|
-|------|----------|
-|`git config --global user.name "nome da pessoa"`|Altera o nome do usuário|
-|`git config --global user.email digitar@email.com`|Alterar o email|
-|`git config --global init.defaultBranch "main"`|Alterar main|
-|Para somente ver como está algo| basta não adicionar o valor no final|
-|`git init`|Torna o diretório um repositório|
-|`cd .git`|Para abrir a pasta do git no repositório|
-|`git remote add origin http//endereço.url.do.repositório|Para vincular o seu repositório local com o remoto|
-|`git status`|Para ver se tem alterações não salvas no seu repositório local|
-|`touch README.md`|Criar arquivo .md|
-|`git add nome_do_arquivo` (ou . caso seja mais de um)|Adicionar arquivo a área de preparação|
-|`git commit -m "nome do commit" `(Como commit inicial)|Comita os aquivos na área de preparação|
-|`git log`|ver o histórico dos commits|
-### Desfazer Alterações no repositório local
-|Código|Explicação|
-|--------|-----------|
-|`git restore nome_do_aquivo`| Restaura o arquivo para a última versão salva dele|
-|`git commit --amend -m"nova mensagem"`|Mudar o nome do último commit|
-|`git reset --soft cola_o_rest_do_commit`|Desfazer um commit e manda as alterações dele para a área de preparação|
-|`git reset --mixed cola_o_rest_do_commit`|Desfaz um commit e manda as alterações para a área de trabalho|
-|`git reset --hard cola_o_rest_do_commit`|Desfaz um commit e exclui as alterações|
-|`git reflog`|histórico mais detalhado das alterações|
-### Enviar e baixar alterações com o repositório remoto
-|Código|Explicação|
-|--------|-----------|
-|git push -u origin main|Enviar as alterações para o repositório remoto|
-|git pull|Pucha as alterações do repositório remoto para o local|
-### Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos
-|Código|Explicação|
-|--------|-----------|
-|`git checkout -b teste`|Cria uma Branch nova|
-|`git checkout nome_da_branch`|para acessar alguma Branch específica|
-|`git branch -v`|mostra o último commit de cada Branch|
-|`git merge nome_da_branch`|Dentro da branch principal nós usamos esse comendo para mesclar ela com a branch que nós demos o nome|
-|`git branch -d nome_da_branch`|Excluir uma branch|
-### Trabalhando com Branches - Comandos úteis no dia a dia
-|Código|Explicação|
-|--------|-----------|
-|`git fetch origin main`|Baixar as alterações do remoto para o local|
-|`git diff main origin/main`|Analisa as diferenças|
-|`git merge origin/main`|Mesclar nosso remoto com o local|
-|`git clone https://urldoremoto.git --branch nome_da_branch --single-branch`|Clona somente uma branch específica que você queira|
+### 🚀 Domínio
+![HTML5](https://img.shields.io/badge/HTML5-383838?style=for-the-badge&logo=html5&logoColor=DBD69C)
+![CSS3](https://img.shields.io/badge/CSS3-383838?style=for-the-badge&logo=css3&logoColor=DBD69C)
+![JavaScript](https://img.shields.io/badge/JavaScript-383838?style=for-the-badge&logo=javascript&logoColor=DBD69C)
 
+### 📚 Noções Básicas
+![SQL](https://img.shields.io/badge/SQL-383838?style=for-the-badge&logo=mysql&logoColor=DBD69C)
+![Java](https://img.shields.io/badge/Java-383838?style=for-the-badge&logo=java&logoColor=DBD69C)
+
+### 💻 Começando a Estudar
+![.NET](https://img.shields.io/badge/.NET-383838?style=for-the-badge&logo=dotnet&logoColor=DBD69C)
+![Python](https://img.shields.io/badge/Python-383838?style=for-the-badge&logo=python&logoColor=DBD69C)
+
+### 🛠️ Ferramentas que eu uso
+![VS Code](https://img.shields.io/badge/VS%20Code-383838?style=for-the-badge&logo=visual-studio-code&logoColor=DBD69C)
+![NetBeans](https://img.shields.io/badge/NetBeans-383838?style=for-the-badge&logo=apache-netbeans-ide&logoColor=DBD69C)
+![Git](https://img.shields.io/badge/Git-383838?style=for-the-badge&logo=git&logoColor=DBD69C)
+![GitHub](https://img.shields.io/badge/GitHub-383838?style=for-the-badge&logo=github&logoColor=DBD69C)
+![Figma](https://img.shields.io/badge/Figma-383838?style=for-the-badge&logo=figma&logoColor=DBD69C)
+![Canva](https://img.shields.io/badge/Canva-383838?style=for-the-badge&logo=canva&logoColor=DBD69C)
+![Illustrator](https://img.shields.io/badge/Illustrator-383838?style=for-the-badge&logo=adobeillustrator&logoColor=DBD69C)
+
+---
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaylsondeAlbuquerque&theme=transparent&bg_color=383838&border_color=9DCEDC&show_icons=true&icon_color=9DCEDC&title_color=DBD69C&text_color=9DCEDC)
+---
+## Educação & Cursos
+
+- **Faculdade Wyden**: Análise e Desenvolvimento de Sistemas
+- **Bootcamp Back-end com .NET** - DIO
+- **Curso de Desenvolvimento Mobile** - Alura & Santander
+- **Curso Introdução ao Python** - Santander Academy
+
+---
+## Soft Skills
+
+- **Liderança**: Capacidade de guiar equipes e inspirar o trabalho colaborativo.
+- **Comunicação**: Habilidade de expressar ideias de forma clara e objetiva.
+- **Raciocínio Lógico**: Forte aptidão para resolver problemas de maneira estruturada.
+- **Resiliência & Proatividade**: Gosto de desafios e busco soluções criativas, sem me abalar por dificuldades.
+
+---
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/LaylsondeAlbuquerque)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaylsondeAlbuquerque)

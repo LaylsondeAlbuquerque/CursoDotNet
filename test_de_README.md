@@ -1,13 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9DCEDC&height=120&section=header"/>
 
-<h1 align="center">Olá, eu sou o Laylson Albuquerque</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=9DCEDC&font=Poppins&weight=700&size=25&height=45&width=600&lines=Olá,+eu+sou+o+Laylson+Albuquerque;Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+</div>
 
 ## Análise e Desenvolvimento de Sistemas
 Sou um estudante de Análise e Desenvolvimento de Sistemas na **Faculdade Wyden**. Minha jornada na programação é guiada pela paixão por transformar ideias em soluções funcionais. Atualmente, busco oportunidades para aplicar e expandir minhas habilidades, focado em desenvolvimento de software e soluções back-end.
 
 ---
 ## Minhas Habilidades
-![Top Langs](https://[SUA-NOVA-API-VERCEL].vercel.app/api/top-langs/?username=LaylsondeAlbuquerque&locale=pt&layout=compact&hide_border=true&bg_color=383838&border_color=9DCEDC&title_color=DBD69C&text_color=9DCEDC)
+
 ### 🚀 Domínio
 ![HTML5](https://img.shields.io/badge/HTML5-383838?style=for-the-badge&logo=html5&logoColor=DBD69C)
 ![CSS3](https://img.shields.io/badge/CSS3-383838?style=for-the-badge&logo=css3&logoColor=DBD69C)

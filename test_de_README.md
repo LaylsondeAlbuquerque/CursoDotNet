@@ -7,7 +7,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas na **Faculdade Wyden*
 
 ---
 ## Minhas Habilidades
-
+![Top Langs](https://[SUA-NOVA-API-VERCEL].vercel.app/api/top-langs/?username=LaylsondeAlbuquerque&locale=pt&layout=compact&hide_border=true&bg_color=383838&border_color=9DCEDC&title_color=DBD69C&text_color=9DCEDC)
 ### 🚀 Domínio
 ![HTML5](https://img.shields.io/badge/HTML5-383838?style=for-the-badge&logo=html5&logoColor=DBD69C)
 ![CSS3](https://img.shields.io/badge/CSS3-383838?style=for-the-badge&logo=css3&logoColor=DBD69C)
@@ -26,6 +26,9 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas na **Faculdade Wyden*
 ![NetBeans](https://img.shields.io/badge/NetBeans-383838?style=for-the-badge&logo=apache-netbeans-ide&logoColor=DBD69C)
 ![Git](https://img.shields.io/badge/Git-383838?style=for-the-badge&logo=git&logoColor=DBD69C)
 ![GitHub](https://img.shields.io/badge/GitHub-383838?style=for-the-badge&logo=github&logoColor=DBD69C)
+![Figma](https://img.shields.io/badge/Figma-383838?style=for-the-badge&logo=figma&logoColor=DBD69C)
+![Canva](https://img.shields.io/badge/Canva-383838?style=for-the-badge&logo=canva&logoColor=DBD69C)
+![Illustrator](https://img.shields.io/badge/Illustrator-383838?style=for-the-badge&logo=adobeillustrator&logoColor=DBD69C)
 
 ---
 ## GitHub Stats

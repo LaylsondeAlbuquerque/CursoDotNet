@@ -1,57 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9DCEDC&height=120&section=header"/>
+# Estudos de .NET e C#
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=9DCEDC&font=Poppins&weight=700&size=25&height=45&width=600&lines=Olá,+eu+sou+o+Laylson+Albuquerque;Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
-</div>
+Repositório de anotações de estudo do [bootcamp da DIO sobre .NET](https://web.dio.me/track/avanade-back-end-com-net-e-ia).
 
-## Análise e Desenvolvimento de Sistemas
-Sou um estudante de Análise e Desenvolvimento de Sistemas na **Faculdade Wyden**. Minha jornada na programação é guiada pela paixão por transformar ideias em soluções funcionais. Atualmente, busco oportunidades para aplicar e expandir minhas habilidades, focado em desenvolvimento de software e soluções back-end.
+Os arquivos reúnem resumos de aulas e exemplos para consulta durante o aprendizado.
 
----
-## Minhas Habilidades
+## Índice das anotações
 
-### 🚀 Domínio
-![HTML5](https://img.shields.io/badge/HTML5-383838?style=for-the-badge&logo=html5&logoColor=DBD69C)
-![CSS3](https://img.shields.io/badge/CSS3-383838?style=for-the-badge&logo=css3&logoColor=DBD69C)
-![JavaScript](https://img.shields.io/badge/JavaScript-383838?style=for-the-badge&logo=javascript&logoColor=DBD69C)
+| Arquivo | Conteúdo |
+| --- | --- |
+| [Git e GitHub](./Git%26Github.md) | Configuração, commits, histórico, branches e sincronização de repositórios. |
+| [Sintaxe básica de .NET e C#](./SintaxeB%C3%A1sicaDotNET.md) | Criação de projetos de console, classes, convenções e tipos de dados. |
+| [Operadores em C#](./Operadores.md) | Atribuição, operações aritméticas, conversões de tipos, comparações e operadores lógicos. |
 
-### 📚 Noções Básicas
-![SQL](https://img.shields.io/badge/SQL-383838?style=for-the-badge&logo=mysql&logoColor=DBD69C)
-![Java](https://img.shields.io/badge/Java-383838?style=for-the-badge&logo=java&logoColor=DBD69C)
+## Como consultar
 
-### 💻 Começando a Estudar
-![.NET](https://img.shields.io/badge/.NET-383838?style=for-the-badge&logo=dotnet&logoColor=DBD69C)
-![Python](https://img.shields.io/badge/Python-383838?style=for-the-badge&logo=python&logoColor=DBD69C)
-
-### 🛠️ Ferramentas que eu uso
-![VS Code](https://img.shields.io/badge/VS%20Code-383838?style=for-the-badge&logo=visual-studio-code&logoColor=DBD69C)
-![NetBeans](https://img.shields.io/badge/NetBeans-383838?style=for-the-badge&logo=apache-netbeans-ide&logoColor=DBD69C)
-![Git](https://img.shields.io/badge/Git-383838?style=for-the-badge&logo=git&logoColor=DBD69C)
-![GitHub](https://img.shields.io/badge/GitHub-383838?style=for-the-badge&logo=github&logoColor=DBD69C)
-![Figma](https://img.shields.io/badge/Figma-383838?style=for-the-badge&logo=figma&logoColor=DBD69C)
-![Canva](https://img.shields.io/badge/Canva-383838?style=for-the-badge&logo=canva&logoColor=DBD69C)
-![Illustrator](https://img.shields.io/badge/Illustrator-383838?style=for-the-badge&logo=adobeillustrator&logoColor=DBD69C)
-
----
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaylsondeAlbuquerque&theme=transparent&bg_color=383838&border_color=9DCEDC&show_icons=true&icon_color=9DCEDC&title_color=DBD69C&text_color=9DCEDC)
----
-## Educação & Cursos
-
-- **Faculdade Wyden**: Análise e Desenvolvimento de Sistemas
-- **Bootcamp Back-end com .NET** - DIO
-- **Curso de Desenvolvimento Mobile** - Alura & Santander
-- **Curso Introdução ao Python** - Santander Academy
-
----
-## Soft Skills
-
-- **Liderança**: Capacidade de guiar equipes e inspirar o trabalho colaborativo.
-- **Comunicação**: Habilidade de expressar ideias de forma clara e objetiva.
-- **Raciocínio Lógico**: Forte aptidão para resolver problemas de maneira estruturada.
-- **Resiliência & Proatividade**: Gosto de desafios e busco soluções criativas, sem me abalar por dificuldades.
-
----
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/LaylsondeAlbuquerque)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaylsondeAlbuquerque)
+Abra os arquivos pelo índice acima. Os exemplos fazem parte das anotações de aula e podem receber revisões conforme os estudos avançam.
